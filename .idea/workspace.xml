@@ -1,8 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb0cc069-4db1-4454-bf47-8433dc2340d5" name="Default" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
+    <list default="true" id="c6db1bbf-6967-4b8b-86ea-8db8bd18ecf0" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/UiElements/Dropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UiElements/FileUpload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UiElements/InputText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UiElements/UiElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/WebObjects/Pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/WebObjects/Pages/ContactUsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/WebObjects/Pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/toy2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/APITests/ExampleAPITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/IntegrationTests/IntegrationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/UiTests/TestContactUs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/components/UiElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WebObjects/Fragments/Header.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/Browser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Utilities/Browser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/DriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Utilities/DriverFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/UiTests/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestContactUs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/components/UiElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utilities/Browser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utilities/Browser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utilities/DriverFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utilities/DriverFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BaseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestContactUs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testproject.iml" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,98 +41,59 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestContactUs.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TestContactUs.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="testng.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+            <state relative-caret-position="165">
+              <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testproject.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testproject.iml">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="54" lean-forward="true" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="DriverFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/utilities/DriverFactory.java">
+      <file leaf-file-name="ExampleAPITest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/APITests/ExampleAPITest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+            <state relative-caret-position="225">
+              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IntegrationExample.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/IntegrationTests/IntegrationExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="423">
+              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#388#406#0" expanded="true" />
-                <element signature="e#984#985#0" expanded="true" />
-                <element signature="e#1019#1020#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Browser.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/utilities/Browser.java">
+      <file leaf-file-name="TestContactUs.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/UiTests/TestContactUs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
-              <folding>
-                <element signature="e#110#111#0" expanded="true" />
-                <element signature="e#131#132#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="236">
+              <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="28" selection-end-column="72" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="BaseTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/BaseTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/UiTests/BaseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#232#233#0" expanded="true" />
-                <element signature="e#489#490#0" expanded="true" />
-                <element signature="e#524#525#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConfigInvoker.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0/testng-7.0.0.jar!/org/testng/internal/ConfigInvoker.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="234" selection-start-line="234" selection-end-line="234" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestInvoker.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0/testng-7.0.0.jar!/org/testng/internal/TestInvoker.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="401" selection-start-line="401" selection-end-line="401" />
+            <state relative-caret-position="165">
+              <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -114,7 +103,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Singleton" />
         <option value="Class" />
       </list>
     </option>
@@ -125,30 +113,20 @@
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
       <map>
-        <entry key="$PROJECT_DIR$/../akorda-automation" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../bsgtest" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../kamino-automation" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Mahisoft/akorda-automation" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Mahisoft/bsgtest" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Mahisoft/kamino-automation" value="PREVIEW" />
       </map>
     </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/BaseTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Pabel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/DriverFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/HomePage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/UiElement.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Pages/HomePage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/HomePage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/components/DriverFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/components/UiElement.java" />
-        <option value="$PROJECT_DIR$/src/main/java/utilities/Browser.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/BaseTest.java" />
         <option value="$PROJECT_DIR$/testng.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/utilities/DriverFactory.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TestContactUs.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/UiTests/TestContactUs.java" />
+        <option value="$PROJECT_DIR$/src/test/java/IntegrationTests/IntegrationExample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/APITests/ExampleAPITest.java" />
       </list>
     </option>
   </component>
@@ -160,9 +138,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="25" />
-    <option name="width" value="1440" />
-    <option name="height" value="819" />
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1001" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -201,7 +179,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="UiElements" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testproject" type="b2602c69:ProjectViewProjectNode" />
@@ -209,13 +187,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="utilities" type="462c0819:PsiDirectoryNode" />
+              <item name="Utilities" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="testproject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="WebObjects" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testproject" type="b2602c69:ProjectViewProjectNode" />
@@ -230,13 +210,37 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="testproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="APITests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="IntegrationTests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="UiTests" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -244,17 +248,6 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gant" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/resources" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/resources" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -268,44 +261,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG./Users/pabloconde/Pablo/Mahisoft/testproject/testng.xml">
+  <component name="RunManager" selected="TestNG.IntegrationExample">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="TestContactUs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="testproject" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestContactUs" />
-      <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-      <fork_mode value="method" />
-    </configuration>
-    <configuration name="TestContactUs.first_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="testproject" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestContactUs" />
-      <option name="METHOD_NAME" value="first_test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -323,13 +281,73 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="TestContactUs" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Unnamed" type="MavenRunConfiguration" factoryName="Maven" singleton="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="test" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration name="ExampleAPITest.testAPIExample" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="APITests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestContactUs" />
+      <option name="PACKAGE_NAME" value="APITests" />
+      <option name="MAIN_CLASS_NAME" value="APITests.ExampleAPITest" />
+      <option name="METHOD_NAME" value="testAPIExample" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="IntegrationExample" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IntegrationTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="IntegrationTests" />
+      <option name="MAIN_CLASS_NAME" value="IntegrationTests.IntegrationExample" />
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
@@ -346,14 +364,20 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="TestContactUs.first_test" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="IntegrationExample.test_integration" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IntegrationTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestContactUs" />
-      <option name="METHOD_NAME" value="first_test" />
+      <option name="PACKAGE_NAME" value="IntegrationTests" />
+      <option name="MAIN_CLASS_NAME" value="IntegrationTests.IntegrationExample" />
+      <option name="METHOD_NAME" value="test_integration" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -369,7 +393,7 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="/Users/pabloconde/Pablo/Mahisoft/testproject/testng.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="/Users/pabloconde/Pablo/DEV/testproject/testng.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testproject" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -415,19 +439,18 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.TestContactUs.first_test" />
-      <item itemvalue="JUnit.TestContactUs" />
-      <item itemvalue="TestNG.TestContactUs.first_test" />
-      <item itemvalue="TestNG./Users/pabloconde/Pablo/Mahisoft/testproject/testng.xml" />
-      <item itemvalue="TestNG.TestContactUs" />
+      <item itemvalue="Maven.Unnamed" />
+      <item itemvalue="TestNG./Users/pabloconde/Pablo/DEV/testproject/testng.xml" />
+      <item itemvalue="TestNG.ExampleAPITest.testAPIExample" />
+      <item itemvalue="TestNG.IntegrationExample.test_integration" />
+      <item itemvalue="TestNG.IntegrationExample" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG./Users/pabloconde/Pablo/Mahisoft/testproject/testng.xml" />
-        <item itemvalue="TestNG.TestContactUs" />
-        <item itemvalue="TestNG.TestContactUs.first_test" />
-        <item itemvalue="JUnit.TestContactUs" />
-        <item itemvalue="JUnit.TestContactUs.first_test" />
+        <item itemvalue="TestNG.IntegrationExample" />
+        <item itemvalue="TestNG.IntegrationExample.test_integration" />
+        <item itemvalue="TestNG.ExampleAPITest.testAPIExample" />
+        <item itemvalue="TestNG./Users/pabloconde/Pablo/DEV/testproject/testng.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -436,70 +459,65 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bb0cc069-4db1-4454-bf47-8433dc2340d5" name="Default" comment="" />
-      <created>1567691856849</created>
+      <changelist id="c6db1bbf-6967-4b8b-86ea-8db8bd18ecf0" name="Default" comment="" />
+      <created>1568051039313</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1567691856849</updated>
+      <updated>1568051039313</updated>
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_Users_pabloconde_Pablo_Mahisoft_testproject_testng_xml - 2019.09.05 at 16h 43m 57s.xml">
-      <configuration name="/Users/pabloconde/Pablo/Mahisoft/testproject/testng.xml" configurationId="TestNG" />
+    <history-entry file="_Users_pabloconde_Pablo_DEV_testproject_testng_xml - 2019.09.09 at 14h 44m 48s.xml">
+      <configuration name="/Users/pabloconde/Pablo/DEV/testproject/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_pabloconde_Pablo_Mahisoft_testproject_testng_xml - 2019.09.05 at 16h 47m 51s.xml">
-      <configuration name="/Users/pabloconde/Pablo/Mahisoft/testproject/testng.xml" configurationId="TestNG" />
+    <history-entry file="_Users_pabloconde_Pablo_DEV_testproject_testng_xml - 2019.09.09 at 14h 45m 28s.xml">
+      <configuration name="/Users/pabloconde/Pablo/DEV/testproject/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_pabloconde_Pablo_Mahisoft_testproject_testng_xml - 2019.09.05 at 16h 49m 58s.xml">
-      <configuration name="/Users/pabloconde/Pablo/Mahisoft/testproject/testng.xml" configurationId="TestNG" />
+    <history-entry file="ExampleAPITest_testAPIExample - 2019.09.09 at 14h 49m 04s.xml">
+      <configuration name="ExampleAPITest.testAPIExample" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_pabloconde_Pablo_Mahisoft_testproject_testng_xml - 2019.09.05 at 16h 50m 54s.xml">
-      <configuration name="/Users/pabloconde/Pablo/Mahisoft/testproject/testng.xml" configurationId="TestNG" />
+    <history-entry file="IntegrationExample_test_integration - 2019.09.09 at 15h 00m 48s.xml">
+      <configuration name="IntegrationExample.test_integration" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestContactUs - 2019.09.05 at 16h 52m 10s.xml">
-      <configuration name="TestContactUs" configurationId="TestNG" />
+    <history-entry file="IntegrationExample_test_integration - 2019.09.09 at 15h 02m 51s.xml">
+      <configuration name="IntegrationExample.test_integration" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestContactUs - 2019.09.05 at 16h 53m 17s.xml">
-      <configuration name="TestContactUs" configurationId="TestNG" />
+    <history-entry file="IntegrationExample - 2019.09.09 at 15h 07m 18s.xml">
+      <configuration name="IntegrationExample" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestContactUs - 2019.09.05 at 16h 57m 09s.xml">
-      <configuration name="TestContactUs" configurationId="TestNG" />
+    <history-entry file="IntegrationExample - 2019.09.09 at 15h 09m 11s.xml">
+      <configuration name="IntegrationExample" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestContactUs_first_test - 2019.09.05 at 16h 57m 40s.xml">
-      <configuration name="TestContactUs.first_test" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestContactUs - 2019.09.05 at 16h 58m 05s.xml">
-      <configuration name="TestContactUs" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_pabloconde_Pablo_Mahisoft_testproject_testng_xml - 2019.09.05 at 16h 58m 22s.xml">
-      <configuration name="/Users/pabloconde/Pablo/Mahisoft/testproject/testng.xml" configurationId="TestNG" />
+    <history-entry file="IntegrationExample - 2019.09.09 at 15h 10m 04s.xml">
+      <configuration name="IntegrationExample" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1440" height="819" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" sideWeight="0.49356222" weight="0.32963988" />
+      <window_info anchor="bottom" id="Messages" weight="0.32948717" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.5064378" side_tool="true" visible="true" weight="0.32963988" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49356222" visible="true" weight="0.32963988" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3820513" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.49928468" weight="0.32963988" />
+      <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32963988" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33547926" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
       <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4985694" weight="0.39889196" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -514,155 +532,58 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/TestContactUs.java</url>
-          <line>15</line>
+          <url>file://$PROJECT_DIR$/src/test/java/IntegrationTests/IntegrationExample.java</url>
+          <line>44</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/BaseTest.java</url>
-          <line>9</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="3" />
+      <option name="time" value="2" />
     </breakpoint-manager>
   </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="evaluateExpression">
-      <expression>
-        <expression-string>DriverFactory.getInstance().getDriver()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>DriverFactory.getInstance()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>DriverFactory</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/lala.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Pages.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/components/UiElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/HomePage.java">
+    <entry file="file://$PROJECT_DIR$/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-          </folding>
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testproject.iml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+        <state relative-caret-position="405">
+          <caret line="27" column="54" lean-forward="true" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testng.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/UiTests/BaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        <state relative-caret-position="165">
+          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/utilities/Browser.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/UiTests/TestContactUs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
-          <folding>
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#131#132#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="236">
+          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="28" selection-end-column="72" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0/testng-7.0.0.jar!/org/testng/internal/ConfigInvoker.class">
+    <entry file="file://$PROJECT_DIR$/src/test/java/IntegrationTests/IntegrationExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="234" selection-start-line="234" selection-end-line="234" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0/testng-7.0.0.jar!/org/testng/internal/TestInvoker.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="401" selection-start-line="401" selection-end-line="401" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/utilities/DriverFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#388#406#0" expanded="true" />
-            <element signature="e#984#985#0" expanded="true" />
-            <element signature="e#1019#1020#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0/testng-7.0.0.jar!/org/testng/internal/MethodInvocationHelper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="63" selection-start-line="63" selection-end-line="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/BaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-            <element signature="e#524#525#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestContactUs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        <state relative-caret-position="423">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/APITests/ExampleAPITest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
         </state>
       </provider>
     </entry>

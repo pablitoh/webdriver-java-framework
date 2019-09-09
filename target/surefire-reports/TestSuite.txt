@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 10.403 s <<< FAILURE! - in TestSuite
+first_test(UiTests.TestContactUs)  Time elapsed: 7.3 s  <<< FAILURE!
+org.openqa.selenium.InvalidArgumentException: 
+invalid argument: File not found : /Users/pabloconde/Pablo/Mahisoft/testproject/src/resources/toy2.png
+  (Session info: chrome=76.0.3809.132)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PablitoPC.local', ip: 'fe80:0:0:0:ce4:195f:18e3:75ac%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: /var/folders/wb/53nls3sn1d3...}, goog:chromeOptions: {debuggerAddress: localhost:55639}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 936420df65acdc327edbe5f7be2986c2
+	at UiTests.TestContactUs.first_test(TestContactUs.java:26)
+
