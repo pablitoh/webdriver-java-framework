@@ -5,7 +5,7 @@ import org.testng.annotations.BeforeMethod;
 import Utilities.Browser;
 
 /***
- *
+ * Base test page for Setup and TearDown
  */
 public class BaseTest {
 

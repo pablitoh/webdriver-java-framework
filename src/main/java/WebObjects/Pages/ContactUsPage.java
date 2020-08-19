@@ -11,11 +11,11 @@ import org.openqa.selenium.By;
  */
 public class ContactUsPage extends BasePage {
 
-    private InputText emailField = new InputText(By.xpath("//*[@id='email']"));
-    private InputText idOrderField = new InputText(By.xpath("//*[@id='id_order']"));
-    private Dropdown dropdown = new Dropdown(By.xpath("//*[@id='id_contact']"));
-    private InputText messageField = new InputText(By.xpath("//*[@id='message']"));
-    private FileUpload fileUpload = new FileUpload(By.xpath("//*[@id='fileUpload']"));
+    private InputText emailField    = new InputText(By.xpath("//*[@id='email']"));
+    private InputText idOrderField  = new InputText(By.xpath("//*[@id='id_order']"));
+    private Dropdown  dropdown      = new Dropdown(By.xpath("//*[@id='id_contact']"));
+    private InputText messageField  = new InputText(By.xpath("//*[@id='message']"));
+    private FileUpload fileUpload   = new FileUpload(By.xpath("//*[@id='fileUpload']"));
     private InputText submitMessage = new InputText(By.xpath("//*[@id='submitMessage']"));
     private UiElement resultMessage = new UiElement(By.cssSelector(".alert.alert-success"));
 

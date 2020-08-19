@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+        <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="TestSuite" >
-    <test name="TrialTest">
-        <classes>
-            <class name="UiTests.TestContactUs">
-            </class>
-            <class name="APITests.ExampleAPITest">
-            </class>
-        </classes>
-    </test>
+<test name="UiTests">
+    <classes>
+        <class name="UiTests.TestContactUs">
+        </class>
+    </classes>
+</test>
+<test name="API Tests">
+    <classes>
+        <class name="APITests.ExampleAPITest">
+        </class>
+    </classes>
+</test>
+<test name="Integration Tests">
+    <classes>
+        <class name="IntegrationTests.IntegrationExample">
+        </class>
+    </classes>
+</test>
 </suite>

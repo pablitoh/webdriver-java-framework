@@ -1,0 +1,98 @@
+{
+  "205bcaa7105f2d012f42b189992fd0d6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8e97f11af4c982aa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568058709918,
+        "stop" : 1568058710913,
+        "duration" : 995
+      }
+    } ]
+  },
+  "84fff36ff7a737263caf644f87d59674" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8e6b1e72a23d0d3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568058687539,
+        "stop" : 1568058700008,
+        "duration" : 12469
+      }
+    } ]
+  },
+  "2521b07fa8a80d27f180bb6fa77a9942" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "14500b9491f6a62c",
+      "status" : "failed",
+      "statusDetails" : "1 expectation failed.\nExpected status code <201> doesn't match actual status code <200>.\n",
+      "time" : {
+        "start" : 1568058711978,
+        "stop" : 1568058719076,
+        "duration" : 7098
+      }
+    } ]
+  },
+  "91923cd3b8087d4ab4ae1f549d4b605b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a6666f35505367d0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568058687539,
+        "stop" : 1568058700178,
+        "duration" : 12639
+      }
+    } ]
+  },
+  "d72bc877497b5d257f63a9c448fa9ea5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7f8cb7b5da15b11e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568058687539,
+        "stop" : 1568058709793,
+        "duration" : 22254
+      }
+    } ]
+  }
+}

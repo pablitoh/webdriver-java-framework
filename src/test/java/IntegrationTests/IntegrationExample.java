@@ -5,6 +5,7 @@ import WebObjects.Pages.ContactUsPage;
 import WebObjects.Pages.HomePage;
 import io.restassured.response.Response;
 import org.testng.Assert;
+import org.testng.annotations.Ignore;
 import org.testng.annotations.Test;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.*;
@@ -24,7 +25,7 @@ public class IntegrationExample extends BaseTest {
     {
 
         HomePage home = new HomePage("http://automationpractice.com/index.php");
-        ContactUsPage contactUsPage = home.goTo_ContactUs();
+        ContactUsPage contactUsPage = home.goToContactUs();
 
         /**
          * Gets and validates the response from the API

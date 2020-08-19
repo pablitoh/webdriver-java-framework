@@ -1,0 +1,92 @@
+{
+  "uid" : "2c31d6e9ffcdfcec",
+  "name" : "third_test",
+  "fullName" : "UiTests.TestContactUs.third_test",
+  "historyId" : "84fff36ff7a737263caf644f87d59674",
+  "time" : {
+    "start" : 1568058543904,
+    "stop" : 1568058550502,
+    "duration" : 6598
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1568058541883,
+      "stop" : 1568058543708,
+      "duration" : 1825
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1568058550510,
+      "stop" : 1568058550640,
+      "duration" : 130
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "UiTests.TestContactUs"
+  }, {
+    "name" : "testClass",
+    "value" : "UiTests.TestContactUs"
+  }, {
+    "name" : "testMethod",
+    "value" : "third_test"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestSuite"
+  }, {
+    "name" : "suite",
+    "value" : "UiTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "UiTests.TestContactUs"
+  }, {
+    "name" : "host",
+    "value" : "PablitoPC.local"
+  }, {
+    "name" : "thread",
+    "value" : "1621@PablitoPC.local.TestNG-test=UiTests-3(15)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2c31d6e9ffcdfcec.json",
+  "parameterValues" : [ ]
+}

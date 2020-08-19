@@ -1,0 +1,51 @@
+[ {
+  "uid" : "8e97f11af4c982aa",
+  "name" : "testAPIExample",
+  "time" : {
+    "start" : 1568058709918,
+    "stop" : 1568058710913,
+    "duration" : 995
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8e6b1e72a23d0d3",
+  "name" : "third_test",
+  "time" : {
+    "start" : 1568058687539,
+    "stop" : 1568058700008,
+    "duration" : 12469
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7f8cb7b5da15b11e",
+  "name" : "first_test",
+  "time" : {
+    "start" : 1568058687539,
+    "stop" : 1568058709793,
+    "duration" : 22254
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a6666f35505367d0",
+  "name" : "second_test",
+  "time" : {
+    "start" : 1568058687539,
+    "stop" : 1568058700178,
+    "duration" : 12639
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "14500b9491f6a62c",
+  "name" : "test_integration",
+  "time" : {
+    "start" : 1568058711978,
+    "stop" : 1568058719076,
+    "duration" : 7098
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

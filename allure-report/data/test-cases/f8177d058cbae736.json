@@ -1,0 +1,60 @@
+{
+  "uid" : "f8177d058cbae736",
+  "name" : "testAPIExample",
+  "fullName" : "APITests.ExampleAPITest.testAPIExample",
+  "historyId" : "205bcaa7105f2d012f42b189992fd0d6",
+  "time" : {
+    "start" : 1568058560231,
+    "stop" : 1568058561401,
+    "duration" : 1170
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "APITests.ExampleAPITest"
+  }, {
+    "name" : "testClass",
+    "value" : "APITests.ExampleAPITest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testAPIExample"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestSuite"
+  }, {
+    "name" : "suite",
+    "value" : "API  Tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "APITests.ExampleAPITest"
+  }, {
+    "name" : "host",
+    "value" : "PablitoPC.local"
+  }, {
+    "name" : "thread",
+    "value" : "1621@PablitoPC.local.TestNG-test=API  Tests-1(35)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f8177d058cbae736.json",
+  "parameterValues" : [ ]
+}

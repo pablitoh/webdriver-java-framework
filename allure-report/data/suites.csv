@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Sep 09 16:51:49 ART 2019","Mon Sep 09 16:51:50 ART 2019","995","TestSuite","API Tests","APITests.ExampleAPITest","APITests.ExampleAPITest","testAPIExample","testAPIExample",""
+"passed","Mon Sep 09 16:51:27 ART 2019","Mon Sep 09 16:51:40 ART 2019","12469","TestSuite","UiTests","UiTests.TestContactUs","UiTests.TestContactUs","third_test","third_test",""
+"failed","Mon Sep 09 16:51:51 ART 2019","Mon Sep 09 16:51:59 ART 2019","7098","TestSuite","Integration Tests","IntegrationTests.IntegrationExample","IntegrationTests.IntegrationExample","test_integration","test_integration",""
+"passed","Mon Sep 09 16:51:27 ART 2019","Mon Sep 09 16:51:49 ART 2019","22254","TestSuite","UiTests","UiTests.TestContactUs","UiTests.TestContactUs","first_test","first_test",""
+"passed","Mon Sep 09 16:51:27 ART 2019","Mon Sep 09 16:51:40 ART 2019","12639","TestSuite","UiTests","UiTests.TestContactUs","UiTests.TestContactUs","second_test","second_test",""

@@ -34,6 +34,7 @@ public class UiElement {
      */
     protected WebElement getElement()
     {
+        this.wait.until(ExpectedConditions.presenceOfElementLocated(locator));
         return driver.findElement(locator);
     }
 

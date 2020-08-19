@@ -1,0 +1,92 @@
+{
+  "uid" : "f426c349f744a078",
+  "name" : "second_test",
+  "fullName" : "UiTests.TestContactUs.second_test",
+  "historyId" : "91923cd3b8087d4ab4ae1f549d4b605b",
+  "time" : {
+    "start" : 1568058088682,
+    "stop" : 1568058095386,
+    "duration" : 6704
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1568058086654,
+      "stop" : 1568058088539,
+      "duration" : 1885
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1568058095400,
+      "stop" : 1568058095538,
+      "duration" : 138
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "UiTests.TestContactUs"
+  }, {
+    "name" : "testClass",
+    "value" : "UiTests.TestContactUs"
+  }, {
+    "name" : "testMethod",
+    "value" : "second_test"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestSuite"
+  }, {
+    "name" : "suite",
+    "value" : "UiTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "UiTests.TestContactUs"
+  }, {
+    "name" : "host",
+    "value" : "PablitoPC.local"
+  }, {
+    "name" : "thread",
+    "value" : "1247@PablitoPC.local.TestNG-test=UiTests-2(14)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f426c349f744a078.json",
+  "parameterValues" : [ ]
+}

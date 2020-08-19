@@ -47,7 +47,6 @@ public class DriverFactory {
         {
             System.setProperty("webdriver.chrome.driver", "src/resources/chromedriver");
             driver_map.put(Thread.currentThread().toString(),new ChromeDriver());
-
         }
     }
 
