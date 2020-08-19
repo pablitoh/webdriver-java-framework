@@ -1,12 +1,11 @@
 package UiTests;
 
-import org.testng.Assert;
+
 import org.testng.annotations.Test;
 import WebObjects.Pages.ContactUsPage;
 import WebObjects.Pages.HomePage;
-
-import java.util.ArrayList;
-import java.util.List;
+import static org.hamcrest.MatcherAssert.assertThat;
+import static org.hamcrest.Matchers.is;
 
 public class TestContactUs extends BaseTest {
 
@@ -18,20 +17,17 @@ public class TestContactUs extends BaseTest {
      */
 
     @Test
-    public void first_test() {
+    public void test_contactUs_form() {
 
-        HomePage home = new HomePage("http://automationpractice.com/index.php");
-        ContactUsPage contactUsPage = home.goToContactUs();
+        ContactUsPage contactUsPage = new HomePage().goToContactUs();
         contactUsPage.
                 typeEmail("test@test.com").
                 typeOrderReference("F404").
                 selectSubjectHeading("Webmaster").
                 typeMessage("Complaint about order F404").
-                uploadFile("/Users/pabloconde/Pablo/DEV/testproject/src/resources/toy2.png").
+                uploadFile(System.getProperty("user.dir")+"/src/resources/toy2.png").
                 submitForm();
-
-        Assert.assertEquals(contactUsPage.getResultMessage(),
-                "Your message has been successfully sent to our team.");
+        assertThat(contactUsPage.getResultMessage(),is("Your message has been successfully sent to our team."));
     }
 
     @Test

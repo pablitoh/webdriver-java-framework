@@ -11,6 +11,11 @@ public class HomePage extends BasePage{
         Browser.open(url);
     }
 
+    public HomePage()
+    {
+        Browser.open("http://automationpractice.com/index.php");
+    }
+
     public ContactUsPage goToContactUs()
     {
         return header.click_contact_us();

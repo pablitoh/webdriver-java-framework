@@ -49,7 +49,6 @@ public class DriverFactory {
             driver_map.put(Thread.currentThread().toString(),new ChromeDriver());
         }
     }
-
     /***
      *
      * @return The current driver for this thread.
