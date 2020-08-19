@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6db1bbf-6967-4b8b-86ea-8db8bd18ecf0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Utilities/DriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Utilities/DriverFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/WebObjects/Fragments/Header.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WebObjects/Fragments/Header.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/WebObjects/Pages/ContactUsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WebObjects/Pages/ContactUsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/WebObjects/Pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WebObjects/Pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/IntegrationTests/IntegrationExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/IntegrationTests/IntegrationExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/UiTests/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/UiTests/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/UiTests/TestContactUs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/UiTests/TestContactUs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c6db1bbf-6967-4b8b-86ea-8db8bd18ecf0" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -92,8 +81,8 @@
       <file leaf-file-name="HomePage.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/WebObjects/Pages/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="300">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#205#206#0" expanded="true" />
@@ -118,7 +107,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/WebObjects/Pages/ContactUsPage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="453">
-              <caret line="67" column="36" lean-forward="true" selection-start-line="67" selection-start-column="36" selection-end-line="67" selection-end-column="36" />
+              <caret line="67" column="36" selection-start-line="67" selection-start-column="36" selection-end-line="67" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1892#1893#0" expanded="true" />
@@ -132,7 +121,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/WebObjects/Fragments/Header.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -185,6 +174,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="155" />
     <option name="y" value="23" />
     <option name="width" value="1750" />
     <option name="height" value="1007" />
@@ -608,7 +598,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1750" height="1007" extended-state="0" />
+    <frame x="155" y="23" width="1750" height="1007" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -1071,7 +1061,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/WebObjects/Pages/ContactUsPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="453">
-          <caret line="67" column="36" lean-forward="true" selection-start-line="67" selection-start-column="36" selection-end-line="67" selection-end-column="36" />
+          <caret line="67" column="36" selection-start-line="67" selection-start-column="36" selection-end-line="67" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1892#1893#0" expanded="true" />
@@ -1083,14 +1073,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/WebObjects/Fragments/Header.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/WebObjects/Pages/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="300">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#205#206#0" expanded="true" />

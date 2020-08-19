@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestSuite" duration-ms="58976" started-at="2020-08-19T17:19:58 ART" finished-at="2020-08-19T17:20:57 ART">
+    <groups>
+    </groups>
+    <test name="Integration Tests" duration-ms="58976" started-at="2020-08-19T17:19:58 ART" finished-at="2020-08-19T17:20:57 ART">
+      <class name="IntegrationTests.IntegrationExample">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:IntegrationTests.IntegrationExample@47605f2f]" name="setUp" is-config="true" duration-ms="2839" started-at="2020-08-19T17:19:58 ART" finished-at="2020-08-19T17:20:01 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test_integration()[pri:0, instance:IntegrationTests.IntegrationExample@47605f2f]" name="test_integration" duration-ms="55815" started-at="2020-08-19T17:20:01 ART" finished-at="2020-08-19T17:20:57 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_integration -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:IntegrationTests.IntegrationExample@47605f2f]" name="tearDown" is-config="true" duration-ms="136" started-at="2020-08-19T17:20:57 ART" finished-at="2020-08-19T17:20:57 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- IntegrationTests.IntegrationExample -->
+    </test> <!-- Integration Tests -->
+  </suite> <!-- TestSuite -->
+</testng-results>
