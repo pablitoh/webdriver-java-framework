@@ -4,7 +4,7 @@ Framework to make automation using WebDriver easier.
 To run the tests run the mvn clean test command in the root folder of your project from your CLI. This will run all the specified classes inside testng.xml
 
 
-Automationn Framework created to make the use of web driver and pageObject pattern easier. Some of the features are:
+Automation Framework created to make the use of web driver and pageObject pattern easier. Some of the features are:
 
 - Parallel test execution via TestNG and MavenSurefire Plugin. Driver is independent of each instance and it is managed by a Singleton.
 

@@ -7,16 +7,16 @@
         </class>
     </classes>
 </test>
-<test name="API Tests">
-    <classes>
-        <class name="APITests.ExampleAPITest">
-        </class>
-    </classes>
-</test>
-<test name="Integration Tests">
-    <classes>
-        <class name="IntegrationTests.IntegrationExample">
-        </class>
-    </classes>
-</test>
+<!--<test name="API Tests">-->
+    <!--<classes>-->
+        <!--<class name="APITests.ExampleAPITest">-->
+        <!--</class>-->
+    <!--</classes>-->
+<!--</test>-->
+<!--<test name="Integration Tests">-->
+    <!--<classes>-->
+        <!--<class name="IntegrationTests.IntegrationExample">-->
+        <!--</class>-->
+    <!--</classes>-->
+<!--</test>-->
 </suite>

@@ -4,6 +4,7 @@ import UiElements.Dropdown;
 import UiElements.FileUpload;
 import UiElements.InputText;
 import UiElements.UiElement;
+import WebObjects.Fragments.Header;
 import org.openqa.selenium.By;
 
 /***
@@ -11,6 +12,7 @@ import org.openqa.selenium.By;
  */
 public class ContactUsPage extends BasePage {
 
+    private Header header = new Header();
     private InputText emailField    = new InputText(By.xpath("//*[@id='email']"));
     private InputText idOrderField  = new InputText(By.xpath("//*[@id='id_order']"));
     private Dropdown  dropdown      = new Dropdown(By.xpath("//*[@id='id_contact']"));

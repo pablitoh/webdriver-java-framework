@@ -29,6 +29,7 @@ public class TestContactUs extends BaseTest {
                 typeMessage("Complaint about order F404").
                 uploadFile("/Users/pabloconde/Pablo/DEV/testproject/src/resources/toy2.png").
                 submitForm();
+
         Assert.assertEquals(contactUsPage.getResultMessage(),
                 "Your message has been successfully sent to our team.");
     }
@@ -39,21 +40,21 @@ public class TestContactUs extends BaseTest {
         home.goToContactUs();
     }
 
-    @Test
-    public void third_test() {
-
-        List<String> data = new ArrayList<String>();
-        data.add("thooosee whoo dare to challengee meee");
-        data.add("Test String");
-        data.add("Moreeee moreeee text MUAJAJAJAAA");
-
-        for(String text:data)
-        {
-            System.out.println("Text           : " + text);
-            System.out.println("Compressed text: " + compress(text));
-        }
-
-    }
+//    @Test
+//    public void third_test() {
+//
+//        List<String> data = new ArrayList<String>();
+//        data.add("thooosee whoo dare to challengee meee");
+//        data.add("Test String");
+//        data.add("Moreeee moreeee text MUAJAJAJAAA");
+//
+//        for(String text:data)
+//        {
+//            System.out.println("Text           : " + text);
+//            System.out.println("Compressed text: " + compress(text));
+//        }
+//
+//    }
 
 
     public static String compress(String text) {
